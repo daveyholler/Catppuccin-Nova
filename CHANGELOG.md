@@ -17,7 +17,7 @@ Initial release
 
 ## Version 1.2.2
 
-- Repo moved to the official Catppucin project
+- Repo moved to the official Catppuccin project
 
 ## Version 1.2.3
 
